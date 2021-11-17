@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tom Zajdel (@zajdel), and I teach ECE at Carnegie Mellon University
+👋 Hi, I’m Tom Zajdel (@zajdel), and I teach ECE
 
 <!---
 zajdel/zajdel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
